@@ -21,7 +21,8 @@
 
 > _Will learn_ <img src="https://img.shields.io/badge/-React-%23263238?style=for-the-badge&logo=REACT"> <img height="28" width="70" src="https://www.theconsolelogs.com/react/react-native.png"> <img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge&logo=node.js"> <img src="https://img.shields.io/badge/-SASS-05164D?style=for-the-badge&logo=SASS">
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetaligundogdu&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehmetaligundogdu" /></p>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetaligundogdu&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehmetaligundogdu" /></p>
 
-
-
+### Blogs posts
+- [Sanat,sanat için; Formik,React için.](https://medium.com/@mali_derler/react-formik-yap%C4%B1s%C4%B1-a54c59d466d4)
+- [Formik Bazen de Halk İçindir.](https://medium.com/@mali_derler/formik-bazen-de-halk-i%CC%87%C3%A7indir-90675ae53d29)
