@@ -1,6 +1,6 @@
 <p align="center"><img src="https://img.wattpad.com/c2d7cd1d5faec0c4cc2d5fc776646c6132a7de29/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f753965396868746a6643586974513d3d2d3931323637383333332e313631643462383930326437333338653936303135363436383331392e676966" width="auto">
 
-<h1 align="center">Hi 👋, I'm Mehmet Ali.</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Ali GÜNDOĞDU.</h1>
 <h3 align="center">A passionate Mobile and Frontend developer.</h3>
 <div style="display:flex;justify-content:center"> <img  alt="coding" width="400" align="right" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"></div>
 
