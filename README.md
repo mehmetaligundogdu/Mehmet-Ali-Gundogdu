@@ -25,7 +25,7 @@
 - [Sanat,sanat için; Formik,React için.](https://medium.com/@mali_derler/react-formik-yap%C4%B1s%C4%B1-a54c59d466d4)
 - [Formik Bazen de Halk İçindir.](https://medium.com/@mali_derler/formik-bazen-de-halk-i%CC%87%C3%A7indir-90675ae53d29)
 
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetaligundogdu&show_icons=true&theme=dark&locale=en&layout=compact" alt="mehmetaligundogdu" /></p>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetaligundogdu&show_icons=true&theme=light&locale=en&layout=compact" alt="mehmetaligundogdu" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetaligundogdu&theme=dark&hide_border=false)<br/>
 
